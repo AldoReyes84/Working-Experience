@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <!--<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">-->
+    <!-- Add any other CSS or meta tags you need -->
+     </head>
+<body>
+        <!--Header-->
+        
+        {% include header.html %}
+
+         <!-- Dropdown Panel with variable content -->
+
+        {% include dropdown_header_panel.html %}
+
+        <!-- modal content flex display left panel mobile -->
+       
+        {% include left_mobile_panel.html %}
+
+        <!-- Main Content Area with Sidebar -->
+     <div class="layout-body-content">
+
+            <!--Section-->
+            
+            {% include section.html %}
+
+            <!-- Main -->
+            
+            {% include main.html %}
+            
+            <!-- Aside -->
+            <aside class="article-nav">
+               
+                <ul class="article-nav-list">
+                   
+                </ul>
+            </aside>
+        </div>
+  
+    </body>
+  <script src="./assets/js/script.js"></script>
+</html>

@@ -1,0 +1,38 @@
+Title: Aldo Reyes BI Portfolio
+logo: assets/images/Logo Github Photo.png
+description: "Modular, scalable documentation for BI projects"
+url: "https://aldoreyes84.github.io"
+
+theme: jekyll-theme-minimal
+
+# Navigation labels
+nav:
+  home: "Home"
+  experience: "Working Experience"
+  about: "About Me"
+  dashboards: "Power BI Dashboards"
+  contact: "Contact"
+  share: "Share"
+
+# Social links
+social:
+  github: "https://github.com/AldoReyes84"
+  linkedin: "https://linkedin.com/in/aldoreyes84"
+  email: "mailto:aldoreyes.bi@gmail.com"
+
+sections:
+  contoso:
+    name: "Contoso Sales Dashboard"
+    url: "https://aldoreyes84.github.io/Contoso-Sales-Power-BI-Dashboard/"
+  adventureworks:
+    name: "AdventureWorks2022 Analysis"
+    url: "https://aldoreyes84.github.io/SQL_Server_AdventureWorks/"
+  ssis:
+    name: "SSIS Integration with Python Faker"
+    url: "https://aldoreyes84.github.io/ETL/"
+  experience:
+    name: "Working Experience"
+    url: "https://aldoreyes84.github.io/working_experience/"
+  aboutme:
+    name: "About me"
+    url: "https://aldoreyes84.github.io/About-me/"  
