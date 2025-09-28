@@ -1,44 +1,203 @@
-### Aldo Alan Reyes Hernandez
+# Working Experience
 
-## Business Intelligence & Data Analyst
+## 🧠 Intel Project Analyst {#intel-project-analyst} 
+**Contingent Worker at [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/), sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)**  
+**Intel Internal Sponsor:** Kate Roberson – Trainer Manager (Developer Focus)  
+**Duration:** Nov 2021 – Mar 2025  ·  3 years 5 months  
+**Location:** Portland, Oregon / Remote  
 
----------------------------------------------------------------------------------------------
-### Skills 
+### 📊 Dashboard Design & Business Intelligence {#dashboard-design-business-intelligence}
 
-##### <span title="Poject-3">[ETL]()</span> || <span title="Poject-2">[Data Analysis]()</span> || Data Modeling || <span title="Poject-1">[Dashboard Design]()</span> || <span title="Poject-1">[Data Visaulization]()</span> || <span title="Poject-1, 2">[Insights]()</span> || OKR/KPI 
+- Supported teams across SATG, SP&E, DEP, and Developer Academia by designing Power BI dashboards tailored to specific business needs.
+- Delivered operational and strategic reports, including:
+  - OKR & KPI Dashboards  
+  - Program Overview Summaries  
+  - Learning Program Consumption Pipelines  
+  - Developer Activity & Funnel Reports  
+  - Statistics, Demographics, NPS & Satisfaction Surveys  
+  - Data Quality Metrics
 
-----------------------------------------------------------------------------------------------  
-### Tools
+### 🔗 Data Integration & Modeling {#data-integration-modeling}
 
-##### <span title="Poject-1">[Power BI]()</span> || <span title="Poject-2, 3">[SQL]()</span> || <span title="Poject-2">[Excel]()</span> || <span title="Poject-2, 3">[Python]()</span> || <span title="Poject-2">[SSIS]()</span>
+- Analyzed data structures from sources such as:
+  - Azure Snowflake  
+  - Cloudera Impala  
+  - Salesforce Objects  
+  - Smartsheet  
+- Transformed and modeled data using Power Query Editor (M language), with a preference for Star Schema architecture.
 
------------------------------------------------------------------------------------------------
-### [Work Experience](https://aldoreyes84.github.io/working_experience/)
+### 📈 Insight Generation & Visualization {#insight-generation-visualization}
 
-------------------------------------------------------------------------------------------------
-### [About me](https://aldoreyes84.github.io/About-me/)
+- Built actionable visualizations using DAX formulas and interpretative charts in Power BI.
+- Focused on clarity and usability to support decision-making across technical and business teams.
+- Designed dashboard frames and UI elements in **Figma** for a polished user experience.
+
+---
+
+## 🎓 Certified Instructor Program Dashboard {#certified-instructor-program-dashboard}
+
+As Program Analyst, I provided accurate and timely insights into the Instructor Developer Program.  
+Initial data source: **Salesforce** → migrated to **Power BI** for enhanced flexibility and dynamic reporting.
+
+### 🧩 Data Model Structure {#data-model-structure}
+
+- Connected Power BI to Salesforce Objects via configured drivers.
+
+ <details>
+ <summary><strong>Built a robust data model</strong></summary>
+  <br>
+  - FactLearningPlan  
+  - FactCertifiedStatus  
+  - FactInstructors  
+  - FactInstructorActivity  
+  - DimAccounts  
+  - DimGeo  
+  - DimDate  
+  - DimCourses  
+  - DimLearningPlans  
+  - DimInstructorSponsors
+</details>
+
+<details>
+  <summary><strong>📌 Applicants Pipeline</strong></summary>
+  <br>
+  - Visualized applicant progress across learning plans and courses.
+  - Enabled drill-down functionality for Program Managers and Sponsors.
+  - Interactive filters: geography, sponsor, company, course status.
+  - Highlighted “Pending Approval” status for managerial action.
+  - Exportable Applicant Status table for Excel analysis.
+  - Implemented custom DAX measure: **Days Inactive** (based on Salesforce activity field).
+ <br>
+  <img width="501" height="305" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
+</details>
+
+<details>
+  <summary><strong>📋 Program Overview</strong></summary>
+  <br>
+  Summary of program stages, enrollment metrics, and certification progress.
+</details>
+
+<details>
+  <summary><strong>🎓 Instructor Activity</strong></summary>
+  <br>
+  Tracking of instructor engagement, course delivery, and certification support.
+</details>
+
+<details>
+  <summary><strong>✅ Certified Instructors</strong></summary>
+  <br>
+  Overview of certified instructors by region, sponsor, and program.
+</details>
+
+<details>
+  <summary><strong>👤 User Profile</strong></summary>
+  <br>
+  Individual applicant profiles with progress, prerequisites, and activity logs.
+</details>
+
+<details>
+  <summary><strong>📊 Data Quality</strong></summary>
+  <br>
+  Metrics on data completeness, accuracy, and update frequency.
+</details>
+
+<details>
+  <summary><strong>🩺 Program Health</strong></summary>
+  <br>
+  Aggregated indicators of program performance, satisfaction, and growth.
+</details>
+
+----
+
+## 🧪 Workshop Quality Survey Dashboard  {#workshop-quality-survey-dashboard}
+
+Insights into workshop effectiveness, participant feedback, and satisfaction scores.
+
+## 👨‍💻 Developers Trained  {#developers-trained}
+
+Tracking of developer engagement, training completions, and certification outcomes.
+
+## 🎓 Docebo LMS Dashboard  {#docebo-lms-dashboard}
+Monitoring of learning paths, course consumption, and user progression within Docebo LMS.
 
 --------------------------------------------------------------------------------------------------
-### Projects
 
-##### 1.- [Contoso Sales Power BI Dashboard](https://aldoreyes84.github.io/Contoso-Sales-Power-BI-Dashboard/)
+## Conagra Brands
 
-##### 2.- [AdventureWorks2022 Data Analysis](https://aldoreyes84.github.io/Data_Analisys_For_AdventureWorksDW2022/)
+**Full-time Employment**  
+**Manager:** Arely Perez, Team Leader Sales Capabilities & Analytics  
+**Duration:** Jan 2014 - Jan 2020 · 6 years 1 month  
+**Location:** Mexico City
 
-##### 3.- [ETL SSIS Integration Package with Python Faker Files](https://aldoreyes84.github.io/ETL/)
 
----------------------------------------------------------------------------------------------------
-### Documents
+## 🧠 Conagra Sales Analyst {#conagra-sales-analyst}
+**Mar 2017 – Jan 2020 · 2 year 11 month**  
 
-#### [Curriculum PDF](./assets/files/Aldo%20Reyes%20CV.pdf)
+### 📊 Sales Intelligence Overview {#sales-intelligence-overview}
 
----------------------------------------------------------------------------------------------------- 
-### Contact
- 
-##### [Cel Phone: +52 (55) 6931 8062](tel:+525569318062)
-  
-##### [Linkedin](https://www.linkedin.com/in/aldoreyesbianalyst?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv420leqVSUOChjUj%2BtCWbw%3D%3D)
- 
-##### [Hotmail aldoan84@hotmail.com](aldoan84@hotmail.com)
- 
-##### [Gmail aldoan84@gmail.com](aldoan84@gmail.com)
+### 🔍 Data Consolidation & Reporting {#data-consolidation-reporting}
+- **Sales Reporting & Data Mining**  
+  Generation of sales reports and data mining for strategic insights.
+- **Sell-Out Visibility Across Channels**  
+  Consolidation of information provided by clients across Supermarket chains, Price Clubs, and Wholesalers to deliver company-wide Sell-Out visibility.
+
+### 🧭 Strategic Analysis {#strategic-analysis}
+- **Scope & Cataloging Opportunity Matrix**  
+  Mapping of product reach and cataloging opportunities.
+- **SI vs SO Analysis**  
+  Comparative analysis between Sell-In and Sell-Out.
+- **Sales Trends & Perfect Store Tracking**  
+  Monitoring of sales trends and Perfect Store Model performance.
+- **Launches, Seasons & Promotions**  
+  Targeted analysis of product launches, seasonal campaigns, and promotional activities.
+
+### 🛠️ Data Modeling & Automation  {#data-modeling-automation}
+- **Data Model Structuring**  
+  Design and structuring of data models for analysis and visualization.
+- **Report Design**  
+  Development of business-oriented report layouts.
+- **ETL Automation with Power Query Engine**  
+  Automation of ETL processes using Power Query Engine.
+
+## 🏢 Operational Leadership & Process Management {#operational-leadership-process-management}
+**Feb 2016 – Mar 2017 · 1 year 2 month**  
+
+
+### 👥 Team Leadership & Coordination {#team-leadership-coordination}
+- **Administrative Team Oversight**  
+  Led the administrative team—including direct supervision of Administrators and Data Entry Operators, and indirect coordination with Liquidators and Warehouse Staff—to ensure daily operations across 7 national distribution centers (CEDIS).
+
+### 🚚 Operational Execution {#operational-execution}
+- **Pre-Sales Data Capture**  
+  Oversaw the accurate and timely capture of pre-sales information.
+- **Cargo Flight Scheduling**  
+  Managed logistics related to cargo flights and delivery planning.
+- **Inventory Reconciliation**  
+  Ensured consistency and accuracy in inventory records across all centers.
+- **Liquidation Audits & Promotions**  
+  Conducted audits of liquidation processes and promotional activities.
+- **Billing & Invoicing**  
+  Supervised the generation and validation of invoices.
+
+### 🔧 Process Optimization & Reporting {#process-optimization-reporting}
+- **Process Improvement Initiatives**  
+  Identified and implemented enhancements to operational workflows.
+- **Channel Reporting**  
+  Delivered strategic reports to Channel Management and Executive Leadership.
+
+  ## 📈 Management Control Analyst  {#management-control-analyst}
+**Feb 2015 – Feb 2016 · 1 year 1 month**  
+
+
+### 🧮 Budget Management & Process Optimization {#budget-management-process-optimization}
+- **Trade Marketing Budget Oversight**  
+  Improved the budget management process for the Commercial Trade Marketing area by delivering key performance indicators (KPIs) on process timing, balances, and deviations.
+
+- **Relational Database Implementation**  
+  Designed and implemented a backend system using a relational database in **Microsoft Access** to support budget tracking and reporting.
+
+- **KPI Delivery & Operational Visibility**  
+  Enabled visibility into financial and operational metrics through automated reporting and structured data flows.
+
+---
+
