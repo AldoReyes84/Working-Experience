@@ -1,6 +1,9 @@
 # Working Experience
 
+
 ## 🧠 Intel Project Analyst {#intel-project-analyst} 
+<div id="working-experience-intel-project-analyst"></div>
+
 **Contingent Worker at [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/), sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)**  
 **Intel Internal Sponsor:** Kate Roberson – Trainer Manager (Developer Focus)  
 **Duration:** Nov 2021 – Mar 2025  ·  3 years 5 months  
@@ -131,6 +134,7 @@ Monitoring of learning paths, course consumption, and user progression within Do
 
 
 ## 🧠 Conagra Sales Analyst {#conagra-sales-analyst}
+<div id="working-experience-conagra-sales-analyst"></div>
 **Mar 2017 – Jan 2020 · 2 year 11 month**  
 
 ### 📊 Sales Intelligence Overview {#sales-intelligence-overview}
