@@ -11,6 +11,7 @@
 
 ### 📊 Dashboard Design & Business Intelligence {#dashboard-design-business-intelligence}
 
+
 - Supported teams across SATG, SP&E, DEP, and Developer Academia by designing Power BI dashboards tailored to specific business needs.
 - Delivered operational and strategic reports, including:
   - OKR & KPI Dashboards  
@@ -38,6 +39,7 @@
 ---
 
 ## 🎓 Certified Instructor Program Dashboard {#certified-instructor-program-dashboard}
+<div id="working-experience-intel-cip-dashboard"></div>
 
 As Program Analyst, I provided accurate and timely insights into the Instructor Developer Program.  
 Initial data source: **Salesforce** → migrated to **Power BI** for enhanced flexibility and dynamic reporting.
@@ -113,14 +115,17 @@ Initial data source: **Salesforce** → migrated to **Power BI** for enhanced fl
 ----
 
 ## 🧪 Workshop Quality Survey Dashboard  {#workshop-quality-survey-dashboard}
+<div id="working-experience-intel-qualtrics-dashboard"></div>
 
 Insights into workshop effectiveness, participant feedback, and satisfaction scores.
 
 ## 👨‍💻 Developers Trained  {#developers-trained}
+<div id="working-experience-intel-devtrained-dashboard"></div>
 
 Tracking of developer engagement, training completions, and certification outcomes.
 
 ## 🎓 Docebo LMS Dashboard  {#docebo-lms-dashboard}
+<div id="working-experience-intel-docebo-dashboard"></div>
 Monitoring of learning paths, course consumption, and user progression within Docebo LMS.
 
 --------------------------------------------------------------------------------------------------
@@ -164,6 +169,7 @@ Monitoring of learning paths, course consumption, and user progression within Do
   Automation of ETL processes using Power Query Engine.
 
 ## 🏢 Operational Leadership & Process Management {#operational-leadership-process-management}
+<div id="working-experience-conagra-operational-managment"></div>
 **Feb 2016 – Mar 2017 · 1 year 2 month**  
 
 
@@ -190,6 +196,7 @@ Monitoring of learning paths, course consumption, and user progression within Do
   Delivered strategic reports to Channel Management and Executive Leadership.
 
   ## 📈 Management Control Analyst  {#management-control-analyst}
+  <div id="working-experience-conagra-managcontrol-analyst"></div>
 **Feb 2015 – Feb 2016 · 1 year 1 month**  
 
 
